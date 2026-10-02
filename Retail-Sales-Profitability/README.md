@@ -123,7 +123,7 @@ Interactive filters allow the dashboard to be explored by:
 
 ### Dashboard Preview
 
-![Retail Sales & Profitability Dashboard](images/retail-sales-dashboard.png)
+![Retail Sales & Profitability Dashboard](DASHBOARD.png)
 
 ---
 
