@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+tmp/
+*.log
+node_modules/
+DataCoSupplyChainDataset.csv
+DescriptionDataCoSupplyChain.csv
+outputs/csv/orders_clean.csv
+outputs/csv/items_clean.csv
+outputs/*.xlsx
