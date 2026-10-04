@@ -1,5 +1,4 @@
 # Analysis Portfolio
-# Analysis Portfolio
 
 My data analytics projects explore business questions through data preparation, analysis, and visual reporting. I guide the analytical objectives and review findings, using AI-assisted implementation with documented validation and limitations.
 
