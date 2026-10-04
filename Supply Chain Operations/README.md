@@ -1,8 +1,12 @@
 # Supply Chain & Operations Analytics - DataCo
 
-**Portfolio Project. Prepared locally; nothing published or uploaded.**
+**Portfolio Project | Python analysis and interactive Streamlit dashboard**
 
 This project helps an operations manager identify concentrations of late shipping, assess service classes against recorded commitments, and interpret reliability over time. The aim is to prioritize investigation using order counts, rates and source limitations rather than assume a cause.
+
+## Dashboard preview
+
+![Supply Chain Operations dashboard](outputs/dashboard_screenshot.png)
 
 ## Three analytical questions
 
@@ -83,7 +87,7 @@ Observed rates do not establish causation or the effect of switching shipping mo
 
 ## AI-assisted workflow and verification
 
-The business questions and reviewed interpretation were guided by the project owner. AI-assisted Python implementation produced the reproducible analysis and dashboard. Automated reconciliations and local visual checks support the implementation; they do not resolve ambiguous source definitions or establish causal effects. The portfolio presentation preserves the reviewed calculations and limitations. No external publication or GitHub upload was performed.
+The business questions and reviewed interpretation were guided by the project owner. AI-assisted Python implementation produced the reproducible analysis and dashboard. Automated reconciliations and local visual checks support the implementation; they do not resolve ambiguous source definitions or establish causal effects. The portfolio presentation preserves the reviewed calculations and limitations.
 
 ## Comparable-market trend sensitivity
 
