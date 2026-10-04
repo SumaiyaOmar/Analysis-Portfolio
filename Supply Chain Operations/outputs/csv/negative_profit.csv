@@ -1,0 +1,5 @@
+Delivery Status,item_rows,negative_profit_items,negative_profit_share
+Advance shipping,41592,7772,0.1868628582419696
+Late delivery,98977,18553,0.18744758883376947
+Shipping canceled,7754,1489,0.192029920041269
+Shipping on time,32196,5970,0.18542676108833395

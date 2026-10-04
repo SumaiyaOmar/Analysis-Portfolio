@@ -1,0 +1,54 @@
+source_field,disposition,reason
+Type,omitted,Unnecessary for shipping analysis; personal fields excluded
+Days for shipping (real),retained,Relevant analysis field
+Days for shipment (scheduled),retained,Relevant analysis field
+Benefit per order,omitted,Unnecessary for shipping analysis; personal fields excluded
+Sales per customer,omitted,Unnecessary for shipping analysis; personal fields excluded
+Delivery Status,retained,Relevant analysis field
+Late_delivery_risk,retained,Relevant analysis field
+Category Id,omitted,Unnecessary for shipping analysis; personal fields excluded
+Category Name,retained,Relevant analysis field
+Customer City,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Country,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Email,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Fname,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Id,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Lname,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Password,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Segment,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer State,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Street,omitted,Unnecessary for shipping analysis; personal fields excluded
+Customer Zipcode,omitted,Unnecessary for shipping analysis; personal fields excluded
+Department Id,omitted,Unnecessary for shipping analysis; personal fields excluded
+Department Name,omitted,Unnecessary for shipping analysis; personal fields excluded
+Latitude,omitted,Unnecessary for shipping analysis; personal fields excluded
+Longitude,omitted,Unnecessary for shipping analysis; personal fields excluded
+Market,retained,Relevant analysis field
+Order City,omitted,Unnecessary for shipping analysis; personal fields excluded
+Order Country,omitted,Unnecessary for shipping analysis; personal fields excluded
+Order Customer Id,omitted,Unnecessary for shipping analysis; personal fields excluded
+order date (DateOrders),retained,Relevant analysis field
+Order Id,retained,Relevant analysis field
+Order Item Cardprod Id,retained,Relevant analysis field
+Order Item Discount,retained,Relevant analysis field
+Order Item Discount Rate,retained,Relevant analysis field
+Order Item Id,retained,Relevant analysis field
+Order Item Product Price,retained,Relevant analysis field
+Order Item Profit Ratio,omitted,Unnecessary for shipping analysis; personal fields excluded
+Order Item Quantity,retained,Relevant analysis field
+Sales,retained,Relevant analysis field
+Order Item Total,retained,Relevant analysis field
+Order Profit Per Order,retained,Relevant analysis field
+Order Region,retained,Relevant analysis field
+Order State,omitted,Unnecessary for shipping analysis; personal fields excluded
+Order Status,retained,Relevant analysis field
+Order Zipcode,omitted,Unnecessary for shipping analysis; personal fields excluded
+Product Card Id,omitted,Unnecessary for shipping analysis; personal fields excluded
+Product Category Id,retained,Relevant analysis field
+Product Description,omitted,Unnecessary for shipping analysis; personal fields excluded
+Product Image,omitted,Unnecessary for shipping analysis; personal fields excluded
+Product Name,omitted,Unnecessary for shipping analysis; personal fields excluded
+Product Price,omitted,Unnecessary for shipping analysis; personal fields excluded
+Product Status,omitted,Unnecessary for shipping analysis; personal fields excluded
+shipping date (DateOrders),retained,Relevant analysis field
+Shipping Mode,retained,Relevant analysis field

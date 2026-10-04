@@ -1,0 +1,17 @@
+{
+  "source_hashes_match": true,
+  "eligible_late_label_equals_positive_gap": true,
+  "first_class_uniform_2_actual_1_scheduled": 9602,
+  "comparable_market_window_counts_and_rates": 5,
+  "summary_totals_reconciled": true,
+  "workbook_rows_and_metadata_checked": true,
+  "personal_fields_and_external_connections_absent": true,
+  "workbook_summary_values_match_csv": true,
+  "workbook_review_sensitivity_and_pattern_tables_match_csv": true,
+  "pdf_pages": 9,
+  "dashboard_filtered_chart_titles_checked": true,
+  "dashboard_nonempty_single_month_eligible_orders": 2037,
+  "dashboard_nonempty_single_month_total_orders": 2123,
+  "dashboard_empty_selection_eligible_orders": 0,
+  "dashboard_default_market_single_month_empty_checks": true
+}

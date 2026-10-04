@@ -1,0 +1,9 @@
+check,result
+exact_duplicate_rows,0
+order_item_id_unique,True
+order_level_key_fields_consistent,True
+late_flag_matches_delivery_status,True
+same_day_orders,3571
+same_day_exactly_12_hours,3571
+sales_equals_quantity_times_price_within_0_01,180519
+item_total_equals_sales_minus_discount_within_0_01,179295

@@ -1,0 +1,16 @@
+{
+  "sha256": {
+    "DataCoSupplyChainDataset.csv": "fa6d022ed437155e1a2f0378710602848703c8a7f203f7ff5d77805bf8480aa6",
+    "DescriptionDataCoSupplyChain.csv": "9828e34669bd6d77e3b4463364cc44a5d52446b5e246fc258758cfe592566c4b"
+  },
+  "source": "https://data.mendeley.com/datasets/8gx2fvg2k6/5",
+  "contributors": [
+    "Fabian Constante",
+    "Fernando Silva",
+    "Ant\u00f3nio Pereira"
+  ],
+  "license": "CC BY 4.0",
+  "version": 5,
+  "publication_date": "2019-03-12",
+  "status": "Portfolio Project"
+}

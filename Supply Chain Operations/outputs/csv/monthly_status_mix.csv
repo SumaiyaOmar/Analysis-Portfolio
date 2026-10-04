@@ -1,0 +1,850 @@
+order_month,delivery_status,order_status,orders
+2015-01-01,Advance shipping,CLOSED,57
+2015-01-01,Advance shipping,COMPLETE,145
+2015-01-01,Advance shipping,ON_HOLD,26
+2015-01-01,Advance shipping,PAYMENT_REVIEW,6
+2015-01-01,Advance shipping,PENDING,47
+2015-01-01,Advance shipping,PENDING_PAYMENT,97
+2015-01-01,Advance shipping,PROCESSING,43
+2015-01-01,Late delivery,CLOSED,97
+2015-01-01,Late delivery,COMPLETE,320
+2015-01-01,Late delivery,ON_HOLD,52
+2015-01-01,Late delivery,PAYMENT_REVIEW,9
+2015-01-01,Late delivery,PENDING,122
+2015-01-01,Late delivery,PENDING_PAYMENT,232
+2015-01-01,Late delivery,PROCESSING,131
+2015-01-01,Shipping canceled,CANCELED,30
+2015-01-01,Shipping canceled,SUSPECTED_FRAUD,44
+2015-01-01,Shipping on time,CLOSED,41
+2015-01-01,Shipping on time,COMPLETE,119
+2015-01-01,Shipping on time,ON_HOLD,20
+2015-01-01,Shipping on time,PAYMENT_REVIEW,4
+2015-01-01,Shipping on time,PENDING,37
+2015-01-01,Shipping on time,PENDING_PAYMENT,67
+2015-01-01,Shipping on time,PROCESSING,41
+2015-02-01,Advance shipping,CLOSED,47
+2015-02-01,Advance shipping,COMPLETE,118
+2015-02-01,Advance shipping,ON_HOLD,24
+2015-02-01,Advance shipping,PAYMENT_REVIEW,7
+2015-02-01,Advance shipping,PENDING,44
+2015-02-01,Advance shipping,PENDING_PAYMENT,68
+2015-02-01,Advance shipping,PROCESSING,50
+2015-02-01,Late delivery,CLOSED,99
+2015-02-01,Late delivery,COMPLETE,300
+2015-02-01,Late delivery,ON_HOLD,35
+2015-02-01,Late delivery,PAYMENT_REVIEW,10
+2015-02-01,Late delivery,PENDING,129
+2015-02-01,Late delivery,PENDING_PAYMENT,181
+2015-02-01,Late delivery,PROCESSING,117
+2015-02-01,Shipping canceled,CANCELED,41
+2015-02-01,Shipping canceled,SUSPECTED_FRAUD,39
+2015-02-01,Shipping on time,CLOSED,37
+2015-02-01,Shipping on time,COMPLETE,94
+2015-02-01,Shipping on time,ON_HOLD,12
+2015-02-01,Shipping on time,PAYMENT_REVIEW,2
+2015-02-01,Shipping on time,PENDING,25
+2015-02-01,Shipping on time,PENDING_PAYMENT,70
+2015-02-01,Shipping on time,PROCESSING,36
+2015-03-01,Advance shipping,CLOSED,50
+2015-03-01,Advance shipping,COMPLETE,142
+2015-03-01,Advance shipping,ON_HOLD,20
+2015-03-01,Advance shipping,PAYMENT_REVIEW,5
+2015-03-01,Advance shipping,PENDING,46
+2015-03-01,Advance shipping,PENDING_PAYMENT,88
+2015-03-01,Advance shipping,PROCESSING,51
+2015-03-01,Late delivery,CLOSED,127
+2015-03-01,Late delivery,COMPLETE,308
+2015-03-01,Late delivery,ON_HOLD,51
+2015-03-01,Late delivery,PAYMENT_REVIEW,11
+2015-03-01,Late delivery,PENDING,126
+2015-03-01,Late delivery,PENDING_PAYMENT,233
+2015-03-01,Late delivery,PROCESSING,122
+2015-03-01,Shipping canceled,CANCELED,39
+2015-03-01,Shipping canceled,SUSPECTED_FRAUD,40
+2015-03-01,Shipping on time,CLOSED,42
+2015-03-01,Shipping on time,COMPLETE,109
+2015-03-01,Shipping on time,ON_HOLD,26
+2015-03-01,Shipping on time,PAYMENT_REVIEW,3
+2015-03-01,Shipping on time,PENDING,28
+2015-03-01,Shipping on time,PENDING_PAYMENT,79
+2015-03-01,Shipping on time,PROCESSING,35
+2015-04-01,Advance shipping,CLOSED,45
+2015-04-01,Advance shipping,COMPLETE,152
+2015-04-01,Advance shipping,ON_HOLD,32
+2015-04-01,Advance shipping,PAYMENT_REVIEW,7
+2015-04-01,Advance shipping,PENDING,51
+2015-04-01,Advance shipping,PENDING_PAYMENT,70
+2015-04-01,Advance shipping,PROCESSING,47
+2015-04-01,Late delivery,CLOSED,116
+2015-04-01,Late delivery,COMPLETE,309
+2015-04-01,Late delivery,ON_HOLD,58
+2015-04-01,Late delivery,PAYMENT_REVIEW,11
+2015-04-01,Late delivery,PENDING,105
+2015-04-01,Late delivery,PENDING_PAYMENT,216
+2015-04-01,Late delivery,PROCESSING,112
+2015-04-01,Shipping canceled,CANCELED,39
+2015-04-01,Shipping canceled,SUSPECTED_FRAUD,32
+2015-04-01,Shipping on time,CLOSED,36
+2015-04-01,Shipping on time,COMPLETE,103
+2015-04-01,Shipping on time,ON_HOLD,17
+2015-04-01,Shipping on time,PAYMENT_REVIEW,7
+2015-04-01,Shipping on time,PENDING,35
+2015-04-01,Shipping on time,PENDING_PAYMENT,76
+2015-04-01,Shipping on time,PROCESSING,34
+2015-05-01,Advance shipping,CLOSED,44
+2015-05-01,Advance shipping,COMPLETE,145
+2015-05-01,Advance shipping,ON_HOLD,23
+2015-05-01,Advance shipping,PAYMENT_REVIEW,5
+2015-05-01,Advance shipping,PENDING,41
+2015-05-01,Advance shipping,PENDING_PAYMENT,85
+2015-05-01,Advance shipping,PROCESSING,71
+2015-05-01,Late delivery,CLOSED,105
+2015-05-01,Late delivery,COMPLETE,337
+2015-05-01,Late delivery,ON_HOLD,61
+2015-05-01,Late delivery,PAYMENT_REVIEW,6
+2015-05-01,Late delivery,PENDING,97
+2015-05-01,Late delivery,PENDING_PAYMENT,240
+2015-05-01,Late delivery,PROCESSING,123
+2015-05-01,Shipping canceled,CANCELED,42
+2015-05-01,Shipping canceled,SUSPECTED_FRAUD,50
+2015-05-01,Shipping on time,CLOSED,39
+2015-05-01,Shipping on time,COMPLETE,113
+2015-05-01,Shipping on time,ON_HOLD,21
+2015-05-01,Shipping on time,PAYMENT_REVIEW,4
+2015-05-01,Shipping on time,PENDING,33
+2015-05-01,Shipping on time,PENDING_PAYMENT,56
+2015-05-01,Shipping on time,PROCESSING,35
+2015-06-01,Advance shipping,CLOSED,49
+2015-06-01,Advance shipping,COMPLETE,147
+2015-06-01,Advance shipping,ON_HOLD,27
+2015-06-01,Advance shipping,PAYMENT_REVIEW,2
+2015-06-01,Advance shipping,PENDING,49
+2015-06-01,Advance shipping,PENDING_PAYMENT,80
+2015-06-01,Advance shipping,PROCESSING,50
+2015-06-01,Late delivery,CLOSED,114
+2015-06-01,Late delivery,COMPLETE,324
+2015-06-01,Late delivery,ON_HOLD,43
+2015-06-01,Late delivery,PAYMENT_REVIEW,9
+2015-06-01,Late delivery,PENDING,102
+2015-06-01,Late delivery,PENDING_PAYMENT,238
+2015-06-01,Late delivery,PROCESSING,111
+2015-06-01,Shipping canceled,CANCELED,33
+2015-06-01,Shipping canceled,SUSPECTED_FRAUD,41
+2015-06-01,Shipping on time,CLOSED,34
+2015-06-01,Shipping on time,COMPLETE,101
+2015-06-01,Shipping on time,ON_HOLD,18
+2015-06-01,Shipping on time,PAYMENT_REVIEW,4
+2015-06-01,Shipping on time,PENDING,37
+2015-06-01,Shipping on time,PENDING_PAYMENT,67
+2015-06-01,Shipping on time,PROCESSING,45
+2015-07-01,Advance shipping,CLOSED,56
+2015-07-01,Advance shipping,COMPLETE,146
+2015-07-01,Advance shipping,ON_HOLD,23
+2015-07-01,Advance shipping,PAYMENT_REVIEW,5
+2015-07-01,Advance shipping,PENDING,45
+2015-07-01,Advance shipping,PENDING_PAYMENT,84
+2015-07-01,Advance shipping,PROCESSING,59
+2015-07-01,Late delivery,CLOSED,118
+2015-07-01,Late delivery,COMPLETE,330
+2015-07-01,Late delivery,ON_HOLD,61
+2015-07-01,Late delivery,PAYMENT_REVIEW,9
+2015-07-01,Late delivery,PENDING,96
+2015-07-01,Late delivery,PENDING_PAYMENT,235
+2015-07-01,Late delivery,PROCESSING,114
+2015-07-01,Shipping canceled,CANCELED,26
+2015-07-01,Shipping canceled,SUSPECTED_FRAUD,33
+2015-07-01,Shipping on time,CLOSED,36
+2015-07-01,Shipping on time,COMPLETE,102
+2015-07-01,Shipping on time,ON_HOLD,21
+2015-07-01,Shipping on time,PAYMENT_REVIEW,2
+2015-07-01,Shipping on time,PENDING,41
+2015-07-01,Shipping on time,PENDING_PAYMENT,79
+2015-07-01,Shipping on time,PROCESSING,42
+2015-08-01,Advance shipping,CLOSED,45
+2015-08-01,Advance shipping,COMPLETE,145
+2015-08-01,Advance shipping,ON_HOLD,28
+2015-08-01,Advance shipping,PAYMENT_REVIEW,6
+2015-08-01,Advance shipping,PENDING,42
+2015-08-01,Advance shipping,PENDING_PAYMENT,101
+2015-08-01,Advance shipping,PROCESSING,41
+2015-08-01,Late delivery,CLOSED,116
+2015-08-01,Late delivery,COMPLETE,345
+2015-08-01,Late delivery,ON_HOLD,49
+2015-08-01,Late delivery,PAYMENT_REVIEW,11
+2015-08-01,Late delivery,PENDING,106
+2015-08-01,Late delivery,PENDING_PAYMENT,215
+2015-08-01,Late delivery,PROCESSING,124
+2015-08-01,Shipping canceled,CANCELED,43
+2015-08-01,Shipping canceled,SUSPECTED_FRAUD,41
+2015-08-01,Shipping on time,CLOSED,24
+2015-08-01,Shipping on time,COMPLETE,111
+2015-08-01,Shipping on time,ON_HOLD,26
+2015-08-01,Shipping on time,PAYMENT_REVIEW,2
+2015-08-01,Shipping on time,PENDING,40
+2015-08-01,Shipping on time,PENDING_PAYMENT,73
+2015-08-01,Shipping on time,PROCESSING,28
+2015-09-01,Advance shipping,CLOSED,52
+2015-09-01,Advance shipping,COMPLETE,139
+2015-09-01,Advance shipping,ON_HOLD,21
+2015-09-01,Advance shipping,PAYMENT_REVIEW,2
+2015-09-01,Advance shipping,PENDING,46
+2015-09-01,Advance shipping,PENDING_PAYMENT,82
+2015-09-01,Advance shipping,PROCESSING,52
+2015-09-01,Late delivery,CLOSED,119
+2015-09-01,Late delivery,COMPLETE,328
+2015-09-01,Late delivery,ON_HOLD,58
+2015-09-01,Late delivery,PAYMENT_REVIEW,12
+2015-09-01,Late delivery,PENDING,103
+2015-09-01,Late delivery,PENDING_PAYMENT,227
+2015-09-01,Late delivery,PROCESSING,104
+2015-09-01,Shipping canceled,CANCELED,31
+2015-09-01,Shipping canceled,SUSPECTED_FRAUD,41
+2015-09-01,Shipping on time,CLOSED,41
+2015-09-01,Shipping on time,COMPLETE,90
+2015-09-01,Shipping on time,ON_HOLD,23
+2015-09-01,Shipping on time,PAYMENT_REVIEW,4
+2015-09-01,Shipping on time,PENDING,31
+2015-09-01,Shipping on time,PENDING_PAYMENT,67
+2015-09-01,Shipping on time,PROCESSING,33
+2015-10-01,Advance shipping,CLOSED,48
+2015-10-01,Advance shipping,COMPLETE,150
+2015-10-01,Advance shipping,ON_HOLD,19
+2015-10-01,Advance shipping,PAYMENT_REVIEW,7
+2015-10-01,Advance shipping,PENDING,46
+2015-10-01,Advance shipping,PENDING_PAYMENT,104
+2015-10-01,Advance shipping,PROCESSING,46
+2015-10-01,Late delivery,CLOSED,89
+2015-10-01,Late delivery,COMPLETE,346
+2015-10-01,Late delivery,ON_HOLD,56
+2015-10-01,Late delivery,PAYMENT_REVIEW,10
+2015-10-01,Late delivery,PENDING,130
+2015-10-01,Late delivery,PENDING_PAYMENT,232
+2015-10-01,Late delivery,PROCESSING,110
+2015-10-01,Shipping canceled,CANCELED,37
+2015-10-01,Shipping canceled,SUSPECTED_FRAUD,42
+2015-10-01,Shipping on time,CLOSED,37
+2015-10-01,Shipping on time,COMPLETE,100
+2015-10-01,Shipping on time,ON_HOLD,16
+2015-10-01,Shipping on time,PENDING,38
+2015-10-01,Shipping on time,PENDING_PAYMENT,73
+2015-10-01,Shipping on time,PROCESSING,39
+2015-11-01,Advance shipping,CLOSED,52
+2015-11-01,Advance shipping,COMPLETE,126
+2015-11-01,Advance shipping,ON_HOLD,26
+2015-11-01,Advance shipping,PENDING,53
+2015-11-01,Advance shipping,PENDING_PAYMENT,92
+2015-11-01,Advance shipping,PROCESSING,49
+2015-11-01,Late delivery,CLOSED,117
+2015-11-01,Late delivery,COMPLETE,310
+2015-11-01,Late delivery,ON_HOLD,51
+2015-11-01,Late delivery,PAYMENT_REVIEW,14
+2015-11-01,Late delivery,PENDING,103
+2015-11-01,Late delivery,PENDING_PAYMENT,219
+2015-11-01,Late delivery,PROCESSING,127
+2015-11-01,Shipping canceled,CANCELED,38
+2015-11-01,Shipping canceled,SUSPECTED_FRAUD,33
+2015-11-01,Shipping on time,CLOSED,33
+2015-11-01,Shipping on time,COMPLETE,127
+2015-11-01,Shipping on time,ON_HOLD,15
+2015-11-01,Shipping on time,PAYMENT_REVIEW,2
+2015-11-01,Shipping on time,PENDING,41
+2015-11-01,Shipping on time,PENDING_PAYMENT,77
+2015-11-01,Shipping on time,PROCESSING,24
+2015-12-01,Advance shipping,CLOSED,48
+2015-12-01,Advance shipping,COMPLETE,129
+2015-12-01,Advance shipping,ON_HOLD,24
+2015-12-01,Advance shipping,PAYMENT_REVIEW,3
+2015-12-01,Advance shipping,PENDING,63
+2015-12-01,Advance shipping,PENDING_PAYMENT,112
+2015-12-01,Advance shipping,PROCESSING,41
+2015-12-01,Late delivery,CLOSED,118
+2015-12-01,Late delivery,COMPLETE,318
+2015-12-01,Late delivery,ON_HOLD,59
+2015-12-01,Late delivery,PAYMENT_REVIEW,10
+2015-12-01,Late delivery,PENDING,117
+2015-12-01,Late delivery,PENDING_PAYMENT,257
+2015-12-01,Late delivery,PROCESSING,109
+2015-12-01,Shipping canceled,CANCELED,42
+2015-12-01,Shipping canceled,SUSPECTED_FRAUD,32
+2015-12-01,Shipping on time,CLOSED,51
+2015-12-01,Shipping on time,COMPLETE,107
+2015-12-01,Shipping on time,ON_HOLD,13
+2015-12-01,Shipping on time,PAYMENT_REVIEW,5
+2015-12-01,Shipping on time,PENDING,22
+2015-12-01,Shipping on time,PENDING_PAYMENT,73
+2015-12-01,Shipping on time,PROCESSING,52
+2016-01-01,Advance shipping,CLOSED,46
+2016-01-01,Advance shipping,COMPLETE,132
+2016-01-01,Advance shipping,ON_HOLD,33
+2016-01-01,Advance shipping,PAYMENT_REVIEW,6
+2016-01-01,Advance shipping,PENDING,40
+2016-01-01,Advance shipping,PENDING_PAYMENT,94
+2016-01-01,Advance shipping,PROCESSING,44
+2016-01-01,Late delivery,CLOSED,105
+2016-01-01,Late delivery,COMPLETE,350
+2016-01-01,Late delivery,ON_HOLD,56
+2016-01-01,Late delivery,PAYMENT_REVIEW,10
+2016-01-01,Late delivery,PENDING,124
+2016-01-01,Late delivery,PENDING_PAYMENT,238
+2016-01-01,Late delivery,PROCESSING,115
+2016-01-01,Shipping canceled,CANCELED,33
+2016-01-01,Shipping canceled,SUSPECTED_FRAUD,36
+2016-01-01,Shipping on time,CLOSED,26
+2016-01-01,Shipping on time,COMPLETE,100
+2016-01-01,Shipping on time,ON_HOLD,23
+2016-01-01,Shipping on time,PAYMENT_REVIEW,2
+2016-01-01,Shipping on time,PENDING,33
+2016-01-01,Shipping on time,PENDING_PAYMENT,92
+2016-01-01,Shipping on time,PROCESSING,34
+2016-02-01,Advance shipping,CLOSED,51
+2016-02-01,Advance shipping,COMPLETE,116
+2016-02-01,Advance shipping,ON_HOLD,26
+2016-02-01,Advance shipping,PAYMENT_REVIEW,6
+2016-02-01,Advance shipping,PENDING,49
+2016-02-01,Advance shipping,PENDING_PAYMENT,77
+2016-02-01,Advance shipping,PROCESSING,46
+2016-02-01,Late delivery,CLOSED,110
+2016-02-01,Late delivery,COMPLETE,292
+2016-02-01,Late delivery,ON_HOLD,44
+2016-02-01,Late delivery,PAYMENT_REVIEW,12
+2016-02-01,Late delivery,PENDING,108
+2016-02-01,Late delivery,PENDING_PAYMENT,211
+2016-02-01,Late delivery,PROCESSING,116
+2016-02-01,Shipping canceled,CANCELED,35
+2016-02-01,Shipping canceled,SUSPECTED_FRAUD,41
+2016-02-01,Shipping on time,CLOSED,30
+2016-02-01,Shipping on time,COMPLETE,110
+2016-02-01,Shipping on time,ON_HOLD,30
+2016-02-01,Shipping on time,PAYMENT_REVIEW,1
+2016-02-01,Shipping on time,PENDING,30
+2016-02-01,Shipping on time,PENDING_PAYMENT,70
+2016-02-01,Shipping on time,PROCESSING,39
+2016-03-01,Advance shipping,CLOSED,63
+2016-03-01,Advance shipping,COMPLETE,124
+2016-03-01,Advance shipping,ON_HOLD,32
+2016-03-01,Advance shipping,PAYMENT_REVIEW,3
+2016-03-01,Advance shipping,PENDING,48
+2016-03-01,Advance shipping,PENDING_PAYMENT,105
+2016-03-01,Advance shipping,PROCESSING,41
+2016-03-01,Late delivery,CLOSED,95
+2016-03-01,Late delivery,COMPLETE,367
+2016-03-01,Late delivery,ON_HOLD,51
+2016-03-01,Late delivery,PAYMENT_REVIEW,16
+2016-03-01,Late delivery,PENDING,109
+2016-03-01,Late delivery,PENDING_PAYMENT,214
+2016-03-01,Late delivery,PROCESSING,135
+2016-03-01,Shipping canceled,CANCELED,27
+2016-03-01,Shipping canceled,SUSPECTED_FRAUD,37
+2016-03-01,Shipping on time,CLOSED,29
+2016-03-01,Shipping on time,COMPLETE,99
+2016-03-01,Shipping on time,ON_HOLD,20
+2016-03-01,Shipping on time,PAYMENT_REVIEW,7
+2016-03-01,Shipping on time,PENDING,37
+2016-03-01,Shipping on time,PENDING_PAYMENT,67
+2016-03-01,Shipping on time,PROCESSING,38
+2016-04-01,Advance shipping,CLOSED,52
+2016-04-01,Advance shipping,COMPLETE,121
+2016-04-01,Advance shipping,ON_HOLD,22
+2016-04-01,Advance shipping,PAYMENT_REVIEW,3
+2016-04-01,Advance shipping,PENDING,38
+2016-04-01,Advance shipping,PENDING_PAYMENT,101
+2016-04-01,Advance shipping,PROCESSING,56
+2016-04-01,Late delivery,CLOSED,123
+2016-04-01,Late delivery,COMPLETE,310
+2016-04-01,Late delivery,ON_HOLD,54
+2016-04-01,Late delivery,PAYMENT_REVIEW,6
+2016-04-01,Late delivery,PENDING,110
+2016-04-01,Late delivery,PENDING_PAYMENT,203
+2016-04-01,Late delivery,PROCESSING,119
+2016-04-01,Shipping canceled,CANCELED,36
+2016-04-01,Shipping canceled,SUSPECTED_FRAUD,40
+2016-04-01,Shipping on time,CLOSED,29
+2016-04-01,Shipping on time,COMPLETE,116
+2016-04-01,Shipping on time,ON_HOLD,18
+2016-04-01,Shipping on time,PAYMENT_REVIEW,1
+2016-04-01,Shipping on time,PENDING,30
+2016-04-01,Shipping on time,PENDING_PAYMENT,81
+2016-04-01,Shipping on time,PROCESSING,37
+2016-05-01,Advance shipping,CLOSED,34
+2016-05-01,Advance shipping,COMPLETE,135
+2016-05-01,Advance shipping,ON_HOLD,16
+2016-05-01,Advance shipping,PAYMENT_REVIEW,1
+2016-05-01,Advance shipping,PENDING,48
+2016-05-01,Advance shipping,PENDING_PAYMENT,89
+2016-05-01,Advance shipping,PROCESSING,54
+2016-05-01,Late delivery,CLOSED,106
+2016-05-01,Late delivery,COMPLETE,349
+2016-05-01,Late delivery,ON_HOLD,63
+2016-05-01,Late delivery,PAYMENT_REVIEW,15
+2016-05-01,Late delivery,PENDING,125
+2016-05-01,Late delivery,PENDING_PAYMENT,205
+2016-05-01,Late delivery,PROCESSING,108
+2016-05-01,Shipping canceled,CANCELED,47
+2016-05-01,Shipping canceled,SUSPECTED_FRAUD,41
+2016-05-01,Shipping on time,CLOSED,37
+2016-05-01,Shipping on time,COMPLETE,124
+2016-05-01,Shipping on time,ON_HOLD,15
+2016-05-01,Shipping on time,PAYMENT_REVIEW,6
+2016-05-01,Shipping on time,PENDING,33
+2016-05-01,Shipping on time,PENDING_PAYMENT,68
+2016-05-01,Shipping on time,PROCESSING,44
+2016-06-01,Advance shipping,CLOSED,38
+2016-06-01,Advance shipping,COMPLETE,119
+2016-06-01,Advance shipping,ON_HOLD,19
+2016-06-01,Advance shipping,PAYMENT_REVIEW,1
+2016-06-01,Advance shipping,PENDING,37
+2016-06-01,Advance shipping,PENDING_PAYMENT,77
+2016-06-01,Advance shipping,PROCESSING,60
+2016-06-01,Late delivery,CLOSED,113
+2016-06-01,Late delivery,COMPLETE,343
+2016-06-01,Late delivery,ON_HOLD,57
+2016-06-01,Late delivery,PAYMENT_REVIEW,10
+2016-06-01,Late delivery,PENDING,110
+2016-06-01,Late delivery,PENDING_PAYMENT,205
+2016-06-01,Late delivery,PROCESSING,130
+2016-06-01,Shipping canceled,CANCELED,37
+2016-06-01,Shipping canceled,SUSPECTED_FRAUD,36
+2016-06-01,Shipping on time,CLOSED,36
+2016-06-01,Shipping on time,COMPLETE,110
+2016-06-01,Shipping on time,ON_HOLD,23
+2016-06-01,Shipping on time,PAYMENT_REVIEW,5
+2016-06-01,Shipping on time,PENDING,34
+2016-06-01,Shipping on time,PENDING_PAYMENT,45
+2016-06-01,Shipping on time,PROCESSING,45
+2016-07-01,Advance shipping,CLOSED,50
+2016-07-01,Advance shipping,COMPLETE,139
+2016-07-01,Advance shipping,ON_HOLD,17
+2016-07-01,Advance shipping,PAYMENT_REVIEW,6
+2016-07-01,Advance shipping,PENDING,42
+2016-07-01,Advance shipping,PENDING_PAYMENT,112
+2016-07-01,Advance shipping,PROCESSING,49
+2016-07-01,Late delivery,CLOSED,87
+2016-07-01,Late delivery,COMPLETE,369
+2016-07-01,Late delivery,ON_HOLD,60
+2016-07-01,Late delivery,PAYMENT_REVIEW,13
+2016-07-01,Late delivery,PENDING,108
+2016-07-01,Late delivery,PENDING_PAYMENT,186
+2016-07-01,Late delivery,PROCESSING,99
+2016-07-01,Shipping canceled,CANCELED,40
+2016-07-01,Shipping canceled,SUSPECTED_FRAUD,56
+2016-07-01,Shipping on time,CLOSED,49
+2016-07-01,Shipping on time,COMPLETE,102
+2016-07-01,Shipping on time,ON_HOLD,21
+2016-07-01,Shipping on time,PAYMENT_REVIEW,2
+2016-07-01,Shipping on time,PENDING,31
+2016-07-01,Shipping on time,PENDING_PAYMENT,82
+2016-07-01,Shipping on time,PROCESSING,38
+2016-08-01,Advance shipping,CLOSED,43
+2016-08-01,Advance shipping,COMPLETE,158
+2016-08-01,Advance shipping,ON_HOLD,20
+2016-08-01,Advance shipping,PAYMENT_REVIEW,3
+2016-08-01,Advance shipping,PENDING,54
+2016-08-01,Advance shipping,PENDING_PAYMENT,78
+2016-08-01,Advance shipping,PROCESSING,56
+2016-08-01,Late delivery,CLOSED,108
+2016-08-01,Late delivery,COMPLETE,345
+2016-08-01,Late delivery,ON_HOLD,63
+2016-08-01,Late delivery,PAYMENT_REVIEW,12
+2016-08-01,Late delivery,PENDING,109
+2016-08-01,Late delivery,PENDING_PAYMENT,232
+2016-08-01,Late delivery,PROCESSING,114
+2016-08-01,Shipping canceled,CANCELED,34
+2016-08-01,Shipping canceled,SUSPECTED_FRAUD,34
+2016-08-01,Shipping on time,CLOSED,32
+2016-08-01,Shipping on time,COMPLETE,95
+2016-08-01,Shipping on time,ON_HOLD,18
+2016-08-01,Shipping on time,PAYMENT_REVIEW,2
+2016-08-01,Shipping on time,PENDING,35
+2016-08-01,Shipping on time,PENDING_PAYMENT,79
+2016-08-01,Shipping on time,PROCESSING,42
+2016-09-01,Advance shipping,CLOSED,43
+2016-09-01,Advance shipping,COMPLETE,133
+2016-09-01,Advance shipping,ON_HOLD,20
+2016-09-01,Advance shipping,PAYMENT_REVIEW,2
+2016-09-01,Advance shipping,PENDING,41
+2016-09-01,Advance shipping,PENDING_PAYMENT,96
+2016-09-01,Advance shipping,PROCESSING,61
+2016-09-01,Late delivery,CLOSED,98
+2016-09-01,Late delivery,COMPLETE,336
+2016-09-01,Late delivery,ON_HOLD,67
+2016-09-01,Late delivery,PAYMENT_REVIEW,9
+2016-09-01,Late delivery,PENDING,91
+2016-09-01,Late delivery,PENDING_PAYMENT,226
+2016-09-01,Late delivery,PROCESSING,122
+2016-09-01,Shipping canceled,CANCELED,32
+2016-09-01,Shipping canceled,SUSPECTED_FRAUD,34
+2016-09-01,Shipping on time,CLOSED,42
+2016-09-01,Shipping on time,COMPLETE,125
+2016-09-01,Shipping on time,ON_HOLD,15
+2016-09-01,Shipping on time,PAYMENT_REVIEW,4
+2016-09-01,Shipping on time,PENDING,23
+2016-09-01,Shipping on time,PENDING_PAYMENT,64
+2016-09-01,Shipping on time,PROCESSING,46
+2016-10-01,Advance shipping,CLOSED,38
+2016-10-01,Advance shipping,COMPLETE,121
+2016-10-01,Advance shipping,ON_HOLD,17
+2016-10-01,Advance shipping,PAYMENT_REVIEW,5
+2016-10-01,Advance shipping,PENDING,39
+2016-10-01,Advance shipping,PENDING_PAYMENT,105
+2016-10-01,Advance shipping,PROCESSING,61
+2016-10-01,Late delivery,CLOSED,128
+2016-10-01,Late delivery,COMPLETE,338
+2016-10-01,Late delivery,ON_HOLD,62
+2016-10-01,Late delivery,PAYMENT_REVIEW,7
+2016-10-01,Late delivery,PENDING,103
+2016-10-01,Late delivery,PENDING_PAYMENT,204
+2016-10-01,Late delivery,PROCESSING,134
+2016-10-01,Shipping canceled,CANCELED,38
+2016-10-01,Shipping canceled,SUSPECTED_FRAUD,35
+2016-10-01,Shipping on time,CLOSED,34
+2016-10-01,Shipping on time,COMPLETE,114
+2016-10-01,Shipping on time,ON_HOLD,29
+2016-10-01,Shipping on time,PAYMENT_REVIEW,2
+2016-10-01,Shipping on time,PENDING,37
+2016-10-01,Shipping on time,PENDING_PAYMENT,76
+2016-10-01,Shipping on time,PROCESSING,49
+2016-11-01,Advance shipping,CLOSED,40
+2016-11-01,Advance shipping,COMPLETE,146
+2016-11-01,Advance shipping,ON_HOLD,21
+2016-11-01,Advance shipping,PAYMENT_REVIEW,6
+2016-11-01,Advance shipping,PENDING,52
+2016-11-01,Advance shipping,PENDING_PAYMENT,94
+2016-11-01,Advance shipping,PROCESSING,49
+2016-11-01,Late delivery,CLOSED,108
+2016-11-01,Late delivery,COMPLETE,345
+2016-11-01,Late delivery,ON_HOLD,53
+2016-11-01,Late delivery,PAYMENT_REVIEW,12
+2016-11-01,Late delivery,PENDING,102
+2016-11-01,Late delivery,PENDING_PAYMENT,196
+2016-11-01,Late delivery,PROCESSING,119
+2016-11-01,Shipping canceled,CANCELED,40
+2016-11-01,Shipping canceled,SUSPECTED_FRAUD,42
+2016-11-01,Shipping on time,CLOSED,24
+2016-11-01,Shipping on time,COMPLETE,110
+2016-11-01,Shipping on time,ON_HOLD,27
+2016-11-01,Shipping on time,PAYMENT_REVIEW,4
+2016-11-01,Shipping on time,PENDING,42
+2016-11-01,Shipping on time,PENDING_PAYMENT,62
+2016-11-01,Shipping on time,PROCESSING,27
+2016-12-01,Advance shipping,CLOSED,41
+2016-12-01,Advance shipping,COMPLETE,150
+2016-12-01,Advance shipping,ON_HOLD,20
+2016-12-01,Advance shipping,PAYMENT_REVIEW,6
+2016-12-01,Advance shipping,PENDING,46
+2016-12-01,Advance shipping,PENDING_PAYMENT,82
+2016-12-01,Advance shipping,PROCESSING,50
+2016-12-01,Late delivery,CLOSED,91
+2016-12-01,Late delivery,COMPLETE,366
+2016-12-01,Late delivery,ON_HOLD,50
+2016-12-01,Late delivery,PAYMENT_REVIEW,6
+2016-12-01,Late delivery,PENDING,122
+2016-12-01,Late delivery,PENDING_PAYMENT,231
+2016-12-01,Late delivery,PROCESSING,124
+2016-12-01,Shipping canceled,CANCELED,32
+2016-12-01,Shipping canceled,SUSPECTED_FRAUD,41
+2016-12-01,Shipping on time,CLOSED,44
+2016-12-01,Shipping on time,COMPLETE,95
+2016-12-01,Shipping on time,ON_HOLD,15
+2016-12-01,Shipping on time,PAYMENT_REVIEW,5
+2016-12-01,Shipping on time,PENDING,42
+2016-12-01,Shipping on time,PENDING_PAYMENT,67
+2016-12-01,Shipping on time,PROCESSING,37
+2017-01-01,Advance shipping,CLOSED,46
+2017-01-01,Advance shipping,COMPLETE,130
+2017-01-01,Advance shipping,ON_HOLD,31
+2017-01-01,Advance shipping,PAYMENT_REVIEW,5
+2017-01-01,Advance shipping,PENDING,59
+2017-01-01,Advance shipping,PENDING_PAYMENT,101
+2017-01-01,Advance shipping,PROCESSING,50
+2017-01-01,Late delivery,CLOSED,114
+2017-01-01,Late delivery,COMPLETE,317
+2017-01-01,Late delivery,ON_HOLD,57
+2017-01-01,Late delivery,PAYMENT_REVIEW,8
+2017-01-01,Late delivery,PENDING,111
+2017-01-01,Late delivery,PENDING_PAYMENT,218
+2017-01-01,Late delivery,PROCESSING,115
+2017-01-01,Shipping canceled,CANCELED,24
+2017-01-01,Shipping canceled,SUSPECTED_FRAUD,36
+2017-01-01,Shipping on time,CLOSED,41
+2017-01-01,Shipping on time,COMPLETE,116
+2017-01-01,Shipping on time,ON_HOLD,19
+2017-01-01,Shipping on time,PAYMENT_REVIEW,1
+2017-01-01,Shipping on time,PENDING,39
+2017-01-01,Shipping on time,PENDING_PAYMENT,69
+2017-01-01,Shipping on time,PROCESSING,38
+2017-02-01,Advance shipping,CLOSED,45
+2017-02-01,Advance shipping,COMPLETE,124
+2017-02-01,Advance shipping,ON_HOLD,23
+2017-02-01,Advance shipping,PAYMENT_REVIEW,3
+2017-02-01,Advance shipping,PENDING,39
+2017-02-01,Advance shipping,PENDING_PAYMENT,82
+2017-02-01,Advance shipping,PROCESSING,49
+2017-02-01,Late delivery,CLOSED,107
+2017-02-01,Late delivery,COMPLETE,322
+2017-02-01,Late delivery,ON_HOLD,40
+2017-02-01,Late delivery,PAYMENT_REVIEW,16
+2017-02-01,Late delivery,PENDING,106
+2017-02-01,Late delivery,PENDING_PAYMENT,189
+2017-02-01,Late delivery,PROCESSING,99
+2017-02-01,Shipping canceled,CANCELED,35
+2017-02-01,Shipping canceled,SUSPECTED_FRAUD,41
+2017-02-01,Shipping on time,CLOSED,29
+2017-02-01,Shipping on time,COMPLETE,103
+2017-02-01,Shipping on time,ON_HOLD,17
+2017-02-01,Shipping on time,PAYMENT_REVIEW,6
+2017-02-01,Shipping on time,PENDING,35
+2017-02-01,Shipping on time,PENDING_PAYMENT,60
+2017-02-01,Shipping on time,PROCESSING,44
+2017-03-01,Advance shipping,CLOSED,38
+2017-03-01,Advance shipping,COMPLETE,144
+2017-03-01,Advance shipping,ON_HOLD,33
+2017-03-01,Advance shipping,PAYMENT_REVIEW,3
+2017-03-01,Advance shipping,PENDING,51
+2017-03-01,Advance shipping,PENDING_PAYMENT,88
+2017-03-01,Advance shipping,PROCESSING,52
+2017-03-01,Late delivery,CLOSED,123
+2017-03-01,Late delivery,COMPLETE,299
+2017-03-01,Late delivery,ON_HOLD,62
+2017-03-01,Late delivery,PAYMENT_REVIEW,15
+2017-03-01,Late delivery,PENDING,112
+2017-03-01,Late delivery,PENDING_PAYMENT,226
+2017-03-01,Late delivery,PROCESSING,147
+2017-03-01,Shipping canceled,CANCELED,39
+2017-03-01,Shipping canceled,SUSPECTED_FRAUD,33
+2017-03-01,Shipping on time,CLOSED,36
+2017-03-01,Shipping on time,COMPLETE,112
+2017-03-01,Shipping on time,ON_HOLD,16
+2017-03-01,Shipping on time,PAYMENT_REVIEW,6
+2017-03-01,Shipping on time,PENDING,37
+2017-03-01,Shipping on time,PENDING_PAYMENT,60
+2017-03-01,Shipping on time,PROCESSING,50
+2017-04-01,Advance shipping,CLOSED,46
+2017-04-01,Advance shipping,COMPLETE,153
+2017-04-01,Advance shipping,ON_HOLD,14
+2017-04-01,Advance shipping,PAYMENT_REVIEW,7
+2017-04-01,Advance shipping,PENDING,55
+2017-04-01,Advance shipping,PENDING_PAYMENT,95
+2017-04-01,Advance shipping,PROCESSING,42
+2017-04-01,Late delivery,CLOSED,106
+2017-04-01,Late delivery,COMPLETE,318
+2017-04-01,Late delivery,ON_HOLD,40
+2017-04-01,Late delivery,PAYMENT_REVIEW,8
+2017-04-01,Late delivery,PENDING,115
+2017-04-01,Late delivery,PENDING_PAYMENT,213
+2017-04-01,Late delivery,PROCESSING,117
+2017-04-01,Shipping canceled,CANCELED,35
+2017-04-01,Shipping canceled,SUSPECTED_FRAUD,38
+2017-04-01,Shipping on time,CLOSED,39
+2017-04-01,Shipping on time,COMPLETE,115
+2017-04-01,Shipping on time,ON_HOLD,22
+2017-04-01,Shipping on time,PAYMENT_REVIEW,2
+2017-04-01,Shipping on time,PENDING,42
+2017-04-01,Shipping on time,PENDING_PAYMENT,80
+2017-04-01,Shipping on time,PROCESSING,37
+2017-05-01,Advance shipping,CLOSED,47
+2017-05-01,Advance shipping,COMPLETE,138
+2017-05-01,Advance shipping,ON_HOLD,20
+2017-05-01,Advance shipping,PAYMENT_REVIEW,2
+2017-05-01,Advance shipping,PENDING,51
+2017-05-01,Advance shipping,PENDING_PAYMENT,77
+2017-05-01,Advance shipping,PROCESSING,52
+2017-05-01,Late delivery,CLOSED,106
+2017-05-01,Late delivery,COMPLETE,327
+2017-05-01,Late delivery,ON_HOLD,52
+2017-05-01,Late delivery,PAYMENT_REVIEW,6
+2017-05-01,Late delivery,PENDING,139
+2017-05-01,Late delivery,PENDING_PAYMENT,211
+2017-05-01,Late delivery,PROCESSING,124
+2017-05-01,Shipping canceled,CANCELED,44
+2017-05-01,Shipping canceled,SUSPECTED_FRAUD,47
+2017-05-01,Shipping on time,CLOSED,44
+2017-05-01,Shipping on time,COMPLETE,115
+2017-05-01,Shipping on time,ON_HOLD,21
+2017-05-01,Shipping on time,PAYMENT_REVIEW,4
+2017-05-01,Shipping on time,PENDING,36
+2017-05-01,Shipping on time,PENDING_PAYMENT,63
+2017-05-01,Shipping on time,PROCESSING,37
+2017-06-01,Advance shipping,CLOSED,45
+2017-06-01,Advance shipping,COMPLETE,138
+2017-06-01,Advance shipping,ON_HOLD,21
+2017-06-01,Advance shipping,PAYMENT_REVIEW,1
+2017-06-01,Advance shipping,PENDING,43
+2017-06-01,Advance shipping,PENDING_PAYMENT,103
+2017-06-01,Advance shipping,PROCESSING,51
+2017-06-01,Late delivery,CLOSED,102
+2017-06-01,Late delivery,COMPLETE,290
+2017-06-01,Late delivery,ON_HOLD,54
+2017-06-01,Late delivery,PAYMENT_REVIEW,15
+2017-06-01,Late delivery,PENDING,111
+2017-06-01,Late delivery,PENDING_PAYMENT,219
+2017-06-01,Late delivery,PROCESSING,120
+2017-06-01,Shipping canceled,CANCELED,27
+2017-06-01,Shipping canceled,SUSPECTED_FRAUD,44
+2017-06-01,Shipping on time,CLOSED,24
+2017-06-01,Shipping on time,COMPLETE,96
+2017-06-01,Shipping on time,ON_HOLD,19
+2017-06-01,Shipping on time,PAYMENT_REVIEW,4
+2017-06-01,Shipping on time,PENDING,30
+2017-06-01,Shipping on time,PENDING_PAYMENT,82
+2017-06-01,Shipping on time,PROCESSING,37
+2017-07-01,Advance shipping,CLOSED,54
+2017-07-01,Advance shipping,COMPLETE,121
+2017-07-01,Advance shipping,ON_HOLD,29
+2017-07-01,Advance shipping,PAYMENT_REVIEW,8
+2017-07-01,Advance shipping,PENDING,55
+2017-07-01,Advance shipping,PENDING_PAYMENT,91
+2017-07-01,Advance shipping,PROCESSING,59
+2017-07-01,Late delivery,CLOSED,97
+2017-07-01,Late delivery,COMPLETE,322
+2017-07-01,Late delivery,ON_HOLD,56
+2017-07-01,Late delivery,PAYMENT_REVIEW,12
+2017-07-01,Late delivery,PENDING,111
+2017-07-01,Late delivery,PENDING_PAYMENT,243
+2017-07-01,Late delivery,PROCESSING,125
+2017-07-01,Shipping canceled,CANCELED,42
+2017-07-01,Shipping canceled,SUSPECTED_FRAUD,41
+2017-07-01,Shipping on time,CLOSED,39
+2017-07-01,Shipping on time,COMPLETE,100
+2017-07-01,Shipping on time,ON_HOLD,14
+2017-07-01,Shipping on time,PAYMENT_REVIEW,5
+2017-07-01,Shipping on time,PENDING,38
+2017-07-01,Shipping on time,PENDING_PAYMENT,75
+2017-07-01,Shipping on time,PROCESSING,39
+2017-08-01,Advance shipping,CLOSED,47
+2017-08-01,Advance shipping,COMPLETE,146
+2017-08-01,Advance shipping,ON_HOLD,27
+2017-08-01,Advance shipping,PAYMENT_REVIEW,3
+2017-08-01,Advance shipping,PENDING,38
+2017-08-01,Advance shipping,PENDING_PAYMENT,87
+2017-08-01,Advance shipping,PROCESSING,61
+2017-08-01,Late delivery,CLOSED,95
+2017-08-01,Late delivery,COMPLETE,353
+2017-08-01,Late delivery,ON_HOLD,53
+2017-08-01,Late delivery,PAYMENT_REVIEW,10
+2017-08-01,Late delivery,PENDING,120
+2017-08-01,Late delivery,PENDING_PAYMENT,232
+2017-08-01,Late delivery,PROCESSING,118
+2017-08-01,Shipping canceled,CANCELED,30
+2017-08-01,Shipping canceled,SUSPECTED_FRAUD,43
+2017-08-01,Shipping on time,CLOSED,27
+2017-08-01,Shipping on time,COMPLETE,104
+2017-08-01,Shipping on time,ON_HOLD,23
+2017-08-01,Shipping on time,PAYMENT_REVIEW,5
+2017-08-01,Shipping on time,PENDING,38
+2017-08-01,Shipping on time,PENDING_PAYMENT,64
+2017-08-01,Shipping on time,PROCESSING,44
+2017-09-01,Advance shipping,CLOSED,53
+2017-09-01,Advance shipping,COMPLETE,132
+2017-09-01,Advance shipping,ON_HOLD,15
+2017-09-01,Advance shipping,PAYMENT_REVIEW,5
+2017-09-01,Advance shipping,PENDING,59
+2017-09-01,Advance shipping,PENDING_PAYMENT,90
+2017-09-01,Advance shipping,PROCESSING,48
+2017-09-01,Late delivery,CLOSED,104
+2017-09-01,Late delivery,COMPLETE,347
+2017-09-01,Late delivery,ON_HOLD,46
+2017-09-01,Late delivery,PAYMENT_REVIEW,9
+2017-09-01,Late delivery,PENDING,99
+2017-09-01,Late delivery,PENDING_PAYMENT,230
+2017-09-01,Late delivery,PROCESSING,106
+2017-09-01,Shipping canceled,CANCELED,44
+2017-09-01,Shipping canceled,SUSPECTED_FRAUD,39
+2017-09-01,Shipping on time,CLOSED,36
+2017-09-01,Shipping on time,COMPLETE,112
+2017-09-01,Shipping on time,ON_HOLD,13
+2017-09-01,Shipping on time,PAYMENT_REVIEW,6
+2017-09-01,Shipping on time,PENDING,30
+2017-09-01,Shipping on time,PENDING_PAYMENT,62
+2017-09-01,Shipping on time,PROCESSING,38
+2017-10-01,Advance shipping,CLOSED,43
+2017-10-01,Advance shipping,COMPLETE,179
+2017-10-01,Advance shipping,ON_HOLD,25
+2017-10-01,Advance shipping,PAYMENT_REVIEW,6
+2017-10-01,Advance shipping,PENDING,62
+2017-10-01,Advance shipping,PENDING_PAYMENT,124
+2017-10-01,Advance shipping,PROCESSING,64
+2017-10-01,Late delivery,CLOSED,131
+2017-10-01,Late delivery,COMPLETE,390
+2017-10-01,Late delivery,ON_HOLD,67
+2017-10-01,Late delivery,PAYMENT_REVIEW,16
+2017-10-01,Late delivery,PENDING,132
+2017-10-01,Late delivery,PENDING_PAYMENT,251
+2017-10-01,Late delivery,PROCESSING,150
+2017-10-01,Shipping canceled,CANCELED,32
+2017-10-01,Shipping canceled,SUSPECTED_FRAUD,50
+2017-10-01,Shipping on time,CLOSED,50
+2017-10-01,Shipping on time,COMPLETE,128
+2017-10-01,Shipping on time,ON_HOLD,13
+2017-10-01,Shipping on time,PAYMENT_REVIEW,2
+2017-10-01,Shipping on time,PENDING,39
+2017-10-01,Shipping on time,PENDING_PAYMENT,97
+2017-10-01,Shipping on time,PROCESSING,50
+2017-11-01,Advance shipping,CLOSED,61
+2017-11-01,Advance shipping,COMPLETE,158
+2017-11-01,Advance shipping,ON_HOLD,18
+2017-11-01,Advance shipping,PAYMENT_REVIEW,5
+2017-11-01,Advance shipping,PENDING,70
+2017-11-01,Advance shipping,PENDING_PAYMENT,95
+2017-11-01,Advance shipping,PROCESSING,58
+2017-11-01,Late delivery,CLOSED,131
+2017-11-01,Late delivery,COMPLETE,412
+2017-11-01,Late delivery,ON_HOLD,57
+2017-11-01,Late delivery,PAYMENT_REVIEW,12
+2017-11-01,Late delivery,PENDING,135
+2017-11-01,Late delivery,PENDING_PAYMENT,242
+2017-11-01,Late delivery,PROCESSING,143
+2017-11-01,Shipping canceled,CANCELED,51
+2017-11-01,Shipping canceled,SUSPECTED_FRAUD,48
+2017-11-01,Shipping on time,CLOSED,48
+2017-11-01,Shipping on time,COMPLETE,115
+2017-11-01,Shipping on time,ON_HOLD,13
+2017-11-01,Shipping on time,PAYMENT_REVIEW,5
+2017-11-01,Shipping on time,PENDING,44
+2017-11-01,Shipping on time,PENDING_PAYMENT,87
+2017-11-01,Shipping on time,PROCESSING,47
+2017-12-01,Advance shipping,CLOSED,58
+2017-12-01,Advance shipping,COMPLETE,168
+2017-12-01,Advance shipping,ON_HOLD,21
+2017-12-01,Advance shipping,PAYMENT_REVIEW,4
+2017-12-01,Advance shipping,PENDING,58
+2017-12-01,Advance shipping,PENDING_PAYMENT,116
+2017-12-01,Advance shipping,PROCESSING,65
+2017-12-01,Late delivery,CLOSED,148
+2017-12-01,Late delivery,COMPLETE,415
+2017-12-01,Late delivery,ON_HOLD,71
+2017-12-01,Late delivery,PAYMENT_REVIEW,14
+2017-12-01,Late delivery,PENDING,128
+2017-12-01,Late delivery,PENDING_PAYMENT,254
+2017-12-01,Late delivery,PROCESSING,142
+2017-12-01,Shipping canceled,CANCELED,47
+2017-12-01,Shipping canceled,SUSPECTED_FRAUD,46
+2017-12-01,Shipping on time,CLOSED,40
+2017-12-01,Shipping on time,COMPLETE,109
+2017-12-01,Shipping on time,ON_HOLD,27
+2017-12-01,Shipping on time,PAYMENT_REVIEW,4
+2017-12-01,Shipping on time,PENDING,48
+2017-12-01,Shipping on time,PENDING_PAYMENT,96
+2017-12-01,Shipping on time,PROCESSING,45
+2018-01-01,Advance shipping,CLOSED,62
+2018-01-01,Advance shipping,COMPLETE,165
+2018-01-01,Advance shipping,ON_HOLD,25
+2018-01-01,Advance shipping,PAYMENT_REVIEW,4
+2018-01-01,Advance shipping,PENDING,50
+2018-01-01,Advance shipping,PENDING_PAYMENT,99
+2018-01-01,Advance shipping,PROCESSING,63
+2018-01-01,Late delivery,CLOSED,141
+2018-01-01,Late delivery,COMPLETE,424
+2018-01-01,Late delivery,ON_HOLD,76
+2018-01-01,Late delivery,PAYMENT_REVIEW,14
+2018-01-01,Late delivery,PENDING,139
+2018-01-01,Late delivery,PENDING_PAYMENT,252
+2018-01-01,Late delivery,PROCESSING,149
+2018-01-01,Shipping canceled,CANCELED,45
+2018-01-01,Shipping canceled,SUSPECTED_FRAUD,41
+2018-01-01,Shipping on time,CLOSED,44
+2018-01-01,Shipping on time,COMPLETE,120
+2018-01-01,Shipping on time,ON_HOLD,22
+2018-01-01,Shipping on time,PAYMENT_REVIEW,10
+2018-01-01,Shipping on time,PENDING,38
+2018-01-01,Shipping on time,PENDING_PAYMENT,100
+2018-01-01,Shipping on time,PROCESSING,40

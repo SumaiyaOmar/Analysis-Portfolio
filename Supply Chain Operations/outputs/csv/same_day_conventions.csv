@@ -1,0 +1,5 @@
+actual_days,scheduled_days,shipment_elapsed_hours,delivery_status,orders
+0,0,12.0,Shipping canceled,85
+0,0,12.0,Shipping on time,1759
+1,0,12.0,Late delivery,1648
+1,0,12.0,Shipping canceled,79

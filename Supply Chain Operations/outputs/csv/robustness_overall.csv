@@ -1,0 +1,4 @@
+population,eligible_orders,late_orders,late_rate
+primary,62897,36048,0.5731274941571141
+exclude_final_month,60860,34853,0.5726749917844233
+complete_closed,28965,16633,0.5742447781805627

@@ -1,0 +1,56 @@
+field,rows,missing_count,missing_pct,distinct_nonmissing,surrounding_whitespace_rows,constant_nonmissing
+Type,180519,0,0.0,4,0,False
+Days for shipping (real),180519,0,0.0,7,0,False
+Days for shipment (scheduled),180519,0,0.0,4,0,False
+Benefit per order,180519,0,0.0,21998,0,False
+Sales per customer,180519,0,0.0,2927,0,False
+Delivery Status,180519,0,0.0,4,0,False
+Late_delivery_risk,180519,0,0.0,2,0,False
+Category Id,180519,0,0.0,51,0,False
+Category Name,180519,0,0.0,50,1475,False
+Customer City,180519,0,0.0,563,0,False
+Customer Country,180519,0,0.0,2,0,False
+Customer Email,180519,0,0.0,1,0,True
+Customer Fname,180519,0,0.0,782,0,False
+Customer Id,180519,0,0.0,20652,0,False
+Customer Lname,180519,8,4.431666472781258e-05,1109,0,False
+Customer Password,180519,0,0.0,1,0,True
+Customer Segment,180519,0,0.0,3,0,False
+Customer State,180519,0,0.0,46,0,False
+Customer Street,180519,0,0.0,6953,1829,False
+Customer Zipcode,180519,3,1.661874927292972e-05,995,0,False
+Department Id,180519,0,0.0,11,0,False
+Department Name,180519,0,0.0,11,362,False
+Latitude,180519,0,0.0,11250,0,False
+Longitude,180519,0,0.0,4487,0,False
+Market,180519,0,0.0,5,0,False
+Order City,180519,0,0.0,3597,0,False
+Order Country,180519,0,0.0,164,0,False
+Order Customer Id,180519,0,0.0,20652,0,False
+order date (DateOrders),180519,0,0.0,65752,0,False
+Order Id,180519,0,0.0,65752,0,False
+Order Item Cardprod Id,180519,0,0.0,118,0,False
+Order Item Discount,180519,0,0.0,1017,0,False
+Order Item Discount Rate,180519,0,0.0,18,0,False
+Order Item Id,180519,0,0.0,180519,0,False
+Order Item Product Price,180519,0,0.0,75,0,False
+Order Item Profit Ratio,180519,0,0.0,162,0,False
+Order Item Quantity,180519,0,0.0,5,0,False
+Sales,180519,0,0.0,193,0,False
+Order Item Total,180519,0,0.0,2927,0,False
+Order Profit Per Order,180519,0,0.0,21998,0,False
+Order Region,180519,0,0.0,23,17925,False
+Order State,180519,0,0.0,1089,0,False
+Order Status,180519,0,0.0,9,0,False
+Order Zipcode,180519,155679,0.8623967560201419,609,0,False
+Product Card Id,180519,0,0.0,118,0,False
+Product Category Id,180519,0,0.0,51,0,False
+Product Description,180519,180519,1.0,0,0,True
+Product Image,180519,0,0.0,118,886,False
+Product Name,180519,0,0.0,118,1774,False
+Product Price,180519,0,0.0,75,0,False
+Product Status,180519,0,0.0,1,0,True
+shipping date (DateOrders),180519,0,0.0,63701,0,False
+Shipping Mode,180519,0,0.0,4,0,False
+Order Id (order grain),180519,0,0.0,65752,0,False
+Order-level rows,65752,0,0.0,65752,0,False

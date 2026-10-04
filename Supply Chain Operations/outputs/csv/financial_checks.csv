@@ -1,0 +1,5 @@
+identity_test,item_rows,within_tolerance,tolerance,median_absolute_residual,max_absolute_residual
+sales_minus_quantity_times_price,180519,180519,0.01,0.0,2.289999997628911e-05
+total_minus_sales_minus_discount,180519,179295,0.01,0.0,0.010013549999996485
+discount_minus_sales_times_discount_rate,180519,170490,0.01,0.0014983950599685159,9.999397400010011
+profit_minus_total_times_profit_ratio,180519,115129,0.01,0.004198316159978788,9.299195480020018
