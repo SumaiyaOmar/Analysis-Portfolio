@@ -33,5 +33,3 @@ Analyzed e-commerce purchasing behavior using **Recency, Frequency, and Monetary
 **My contribution:** Defined analytical requirements, guided AI-assisted analysis and Codex development, and tested the resulting dashboard.
 
 **Dataset:** Data Career School e-commerce case study. Original data is excluded because redistribution permission is unconfirmed. The findings are historical and have not been independently validated.
-
-See [Review Checklist](REVIEW_CHECKLIST.md) for limitations and remaining verification steps.
