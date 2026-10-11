@@ -6,3 +6,4 @@ My data analytics projects explore business questions through data preparation, 
 
 - [Retail Sales & Profitability](Retail-Sales-Profitability/README.md) — Sales and margin analysis using Excel, Power Query, and Power BI.
 - [Supply Chain & Operations](Supply%20Chain%20Operations/README.md) — Shipping performance analysis using Python and Streamlit.
+- [RFM Customer Segmentation](RFM-Customer-Segmentation/) — Python-based customer segmentation and retention analysis using RFM metrics.
